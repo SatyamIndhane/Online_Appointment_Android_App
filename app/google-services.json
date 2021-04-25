@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "700855036024",
+    "firebase_url": "https://fir-tut-bbc26.firebaseio.com",
+    "project_id": "fir-tut-bbc26",
+    "storage_bucket": "fir-tut-bbc26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700855036024:android:e6295e25695557e3",
+        "android_client_info": {
+          "package_name": "com.example.hp.firebasetut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700855036024-rvgujhkigardnuak30p8f9gij7utgjeo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hp.firebasetut",
+            "certificate_hash": "f5a7223ec186952a0835a0c3cf576ee66fa5b171"
+          }
+        },
+        {
+          "client_id": "700855036024-h1qjneq5o0glqufr29vr245ffp8l3ipa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDchLJz8kFfVD3Uku_k7arwTp1VPj-_2F8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700855036024-h1qjneq5o0glqufr29vr245ffp8l3ipa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
